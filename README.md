@@ -1,6 +1,6 @@
 Validation for forms
 -------------------------------------------------------------
- DEMO : https://84vp.github.io.git
+ DEMO : https://84vp.github.io/
  
 
 FEATURES:
